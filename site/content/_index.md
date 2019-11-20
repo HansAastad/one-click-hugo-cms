@@ -1,7 +1,7 @@
 ---
 title: LMSF
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/langoytangen.jpg
+image: /img/shanty.jpeg.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
